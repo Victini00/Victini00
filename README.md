@@ -1,6 +1,6 @@
 # 권신영 (Sinyoung Kwon)
 
-서울대학교 컴퓨터공학부 | AI / SW Engineer
+서울대학교 컴퓨터공학부 | Engineer
 
 ## Projects
 
@@ -17,7 +17,13 @@
 
 ## Tech Stack
 
-`Python` `PyTorch` `Transformers` `OpenCV` `NumPy` `C/C++` `Git`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Languages
 
